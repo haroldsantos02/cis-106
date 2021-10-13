@@ -18,6 +18,7 @@ Need to get 25.3 MB of archives.
 ## Question 2
 ![Question 2](../../images/labq2.png)
 ![Question 2 pt.2](../../images/labq2-1.png)
+
 ## Question 3
 ![Question 3](../../images/labq3.png)
 ## Question 4
